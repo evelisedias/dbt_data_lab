@@ -1,0 +1,35 @@
+### dbt ###
+target/
+dbt_modules/
+dbt_packages/
+logs/
+
+packages.yaml
+profiles.yaml
+
+### database ###
+northwind/
+
+### python ###
+load_duckdb_to_postgres.py
+requirements.txt
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
