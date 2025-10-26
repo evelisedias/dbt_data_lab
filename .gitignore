@@ -21,6 +21,7 @@ requirements.txt
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
 docker-compose.yaml
 Dockerfile
 
@@ -34,4 +35,3 @@ Dockerfile
 # Ignore all local history of files
 .history
 .ionide
-
