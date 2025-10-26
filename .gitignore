@@ -21,6 +21,8 @@ requirements.txt
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+docker-compose.yaml
+Dockerfile
 
 # Local History for Visual Studio Code
 .history/
